@@ -1,4 +1,6 @@
-# Angular-CLI-NgPrime
+# Angular-CLI-PrimeNG Starter
+
+Note: the PrimeNG example code was taken from here: `https://github.com/primefaces/primeng-quickstart`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
